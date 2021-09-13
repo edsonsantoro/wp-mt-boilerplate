@@ -61,7 +61,7 @@
 		]
 	},
 	"support": {
-		"issues": "https://github.com/handpressed/wp-multitenancy-boilerplate/issues",
-		"source": "https://github.com/handpressed/wp-multitenancy-boilerplate"
+		"issues": "https://github.com/edsonsantoro/wp-mt-boilerplate/issues",
+		"source": "https://github.com/edsonsantoro/wp-mt-boilerplate"
 	}
 }
